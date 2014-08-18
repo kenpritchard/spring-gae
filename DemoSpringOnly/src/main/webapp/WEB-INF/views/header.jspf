@@ -1,0 +1,31 @@
+<header role="banner" class="group">
+		<div id="logo">
+			Event Manager<br /> <span>Events</span>
+		</div>
+		</header>
+
+		<!--[if lt IE 9]>
+				<p>
+					<h4>This site requires HTML5 and CSS3 support and does not currently support IE below version 9.</h4>
+				</p>
+				<p>
+					I hope to add support for older IE browsers soon. In the meantime, please feel free to contact me
+					using one of the methods below:
+				</p>
+				<div class="ieBlock">
+					<a href="mailto:ken@kenpritchard.com"><span class="sideLink">Email: ken@kenpritchard.com</span>
+					</a>
+				</div>
+				<div class="sideBlock">
+					<a href="http://www.linkedin.com/in/kenpritchard">
+						<img src="http://s4.licdn.com/scds/common/u/img/logos/logo_132x32_2.png" alt="Connect on LinkedIn" />
+					</a>
+				</div>
+				<div class="sideBlock">
+					<a href="https://plus.google.com/113165860474166006627?prsrc=3">
+						<img src="https://ssl.gstatic.com/images/icons/gplus-64.png" alt="Connect on Google+"/>
+					</a>
+				</div>
+			<![endif]-->
+			
+		<![if gte IE 9]>

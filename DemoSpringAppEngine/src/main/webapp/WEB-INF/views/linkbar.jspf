@@ -1,0 +1,8 @@
+		<div id="linkbar">
+			<nav role="navigation">
+			<ul id="mainNav">
+				<li><a href="new_event"><span class="navLink">New Event</span></a></li>
+				<li><a href="list_events"><span class="navLink">List Events</span></a></li>
+			</ul>
+			</nav>
+		</div>
